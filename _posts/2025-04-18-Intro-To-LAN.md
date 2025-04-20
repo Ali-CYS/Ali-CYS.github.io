@@ -1,8 +1,8 @@
 ---
 title: "LAN & Topologies"
 date: 2025-04-16 15:42:00 +0500
-categories: [networking,THM]
-tags: [lan, topologies]
+categories: [Security-Basics,Networking]
+tags: [networking]
 mermaid: true
 ---
 
