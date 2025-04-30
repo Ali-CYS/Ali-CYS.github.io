@@ -13,7 +13,7 @@ order: 4
 
 ## 👨‍💻 About Me
 
--   🚀 I’m currently diving into **TryHackMe** and hands-on cybersecurity labs
+-   🚀 I’m currently diving  into **TryHackMe** and hands-on cybersecurity labs
     
 -   💾 Comfortable with **C++**, **HTML**, **CSS** (first-year but already in the zone)
     
