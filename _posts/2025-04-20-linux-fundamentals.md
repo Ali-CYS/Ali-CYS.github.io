@@ -4,6 +4,7 @@ date: 2025-04-16 15:42:00 +0500
 categories: [Security-Basics,Linux]
 tags: [Linux]
 mermaid: true
+comments: true
 ---
 
 # Linux Fundamentals
