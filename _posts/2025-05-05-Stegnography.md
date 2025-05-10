@@ -1,7 +1,7 @@
 ---
 title: "Easy Stegnography Challange"
 date: 2025-05-05 16:00:00 +0500
-categories: [CTF]
+categories: [CTF,stegnography]
 tags: [stegnography]
 mermaid: true
 description: A writeup of an easy stegnography challange.
