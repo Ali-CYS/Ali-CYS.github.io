@@ -4,6 +4,7 @@ date: 2025-04-16 15:42:00 +0500
 categories: [Security-Basics,Networking]
 tags: [networking]
 mermaid: true
+description: It contains Intoduction to LAN, different topologies and ARP/DHCP understanding
 ---
 
 
