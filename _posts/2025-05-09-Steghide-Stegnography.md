@@ -19,7 +19,7 @@ Find the hidden flag in the image:
 1. Tried adjusting **brightness levels** – no visible text or clues found.
 
 2. Attempted to use `steghide`, but it **required a passphrase** which we didn't know.  
-   ![Steghide Attempt](assets/img/y@u_C4ugH7_The_Tr41n12.png)
+   ![Steghide Attempt](assets/img/y@u_C4ugH7_The_Tr41n2.png)
 
 3. Switched to **Stegseek**, which tries passwords from the `rockyou.txt` wordlist to extract hidden content.
 
